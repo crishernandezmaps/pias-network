@@ -15,6 +15,7 @@ for (var i = 0; i < data.length; i++) {
 
 for (var j = 0; j < data.length; j++) {
   var n = {
+    "category":"x",
     "id":"x",
     "fraction":{
       "0":"x",
@@ -40,6 +41,7 @@ for (var j = 0; j < data.length; j++) {
     }
   }
 
+  n["category"] = data[j].category;
   n["id"] = data[j].source;
   n["fraction"]["0"] = data[j].cero;
   n["fraction"]["1"] = data[j].uno;
@@ -67,6 +69,7 @@ for (var j = 0; j < data.length; j++) {
 
 for (var k = 0; k < data.length; k++) {
   var m = {
+    "category":"x",
     "id":"x",
     "fraction":{
       "0":"x",
@@ -93,6 +96,7 @@ for (var k = 0; k < data.length; k++) {
   }
 
   m["id"] = data[k].target;
+  n["category"] = data[k].category;
   m["fraction"]["0"] = data[k].cero;
   m["fraction"]["1"] = data[k].uno;
   m["fraction"]["2"] = data[k].dos;
@@ -133,11 +137,11 @@ var graph = {"nodes":nodes,"links":links};
 var width = 650,
     height = 550;
 
-var color = d3.scaleOrdinal(d3.schemeCategory20);
-
-// var color = d3.scaleOrdinal() // D3 Version 4
-//   .domain(20)
-//   .range(["#FF0000", "#009933" , "#0000FF"]);
+// // var color = d3.scaleOrdinal(d3.schemeCategory20);
+// var color = d3.scaleOrdinal(d3.schemeCategory10);
+var color = d3.scaleOrdinal() // D3 Version 4
+  .domain(20)
+  .range(["#FF0000", "#009933" , "#0000FF"]);
 
 /// Settings ///
 var svg = d3.select("svg")
@@ -149,7 +153,7 @@ var svg = d3.select("svg")
      .attr('viewBox','0 0 '+Math.min(width)+' '+Math.min(height))
      .attr("preserveAspectRatio", "xMinYMin meet");
 
-var L = 15;
+var L = 115;
 var slider_size = 0.7*width;
 var left_margin = 0.5*(width - slider_size);
 
@@ -287,8 +291,7 @@ function restart() {
   node.exit().remove();
   node = node.enter().append("circle")
     .attr("class", "node")
-    // .attr("fill", function(d) { return color(d.source); })
-    .attr("fill", function(d) { return color(d.id); })
+    .attr("fill", function(d) { return color(d.category); })
     .merge(node)
     .call(d3.drag()
       .on("start", dragstarted)
@@ -304,7 +307,7 @@ function restart() {
   node.transition()
     .duration(5)
     .attr("r", function(d) {
-      return Math.max(minRadius, d.fraction[current_year.toString()] / maxFraction * maxRadius * 3);
+      return Math.max(minRadius, d.fraction[current_year.toString()] / maxFraction * maxRadius * 2.5);
     })
 
   // Apply the general update pattern to the links
@@ -327,7 +330,6 @@ function restart() {
       return Math.max(minLinkwidth, d.value / maxConnect * maxLinkwidth * 1.5);
     })
 
-
   // Update and restart the simulation.
   simulation.nodes(nodes);
   simulation.force("link").links(links)
@@ -341,6 +343,7 @@ function restart() {
     })
   )
 
+  // simulation.alpha(0.005).restart();
   simulation.alpha(0).restart();
 }
 

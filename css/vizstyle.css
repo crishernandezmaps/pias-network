@@ -43,3 +43,20 @@
   top: 10%;
   text-align: center;
 }
+
+.texto {
+  position: absolute;
+  font-size: 0.8em;
+  left: 10%;
+  text-align: left;
+  width: 30%;
+}
+
+.texto > ul {
+  margin-top: 5%;
+}
+
+li {
+  margin-top: 10px;
+  font-size: 0.8em;
+}
