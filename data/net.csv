@@ -1,0 +1,422 @@
+,,Do Not Edit,,,,,,,
+Vertex 1,Vertex 2,ID,Código,Relación,Categoría,"Start
+Time","End
+Time","Duración
+(meses)","Nombre
+Iniciativa"
+L2,DICTUC,3,15VEIPE-48042,15VEIPE-48042,1,01/01/16,01/01/18,24,Escalamiento y automatización de proceso de producción de hojuelas de vegetales saludables
+L1,Gourmet Ltda,4,15L1FPE-48028,15L1FPE-48028,1,01/01/16,01/07/16,6,Desarrollo de yogurt vegetal basado en desechos de la producción de almendras.
+DICTUC,Dueik,5,15VEIPE-48042,15VEIPE-48042AM,1,01/01/16,01/01/18,24,Escalamiento y automatización de proceso de producción de hojuelas de vegetales saludables
+SUNENERGREEN,UConcepción,6,16CONTEC-67391,16CONTEC-67391 C,1,01/10/16,01/10/18,24,"Desarrollo De Nueva Alternativa De Refrigeración Sustentable Para El Proceso  De Poscosecha De Frutas Y Hortalizas, Utilizando Un Sistema Integrado Por Pcm  (Phase Change Material) Adherido A Un Sistema Fotovoltaico."
+SouthHemp,Leitat Chile,7,16CONTEC-67381,16CONTEC-67381 C,1,01/10/16,01/10/18,24,Elaboración De Materiales Bioactivos A Partir De Nano-Celulosa De Cáñamo Industrial Funcionalizada Con Moléculas De Cobre Para Su Utilización En El Embalaje De Productos Con Foco En El Sector Agrícola.
+RanchoAzul,Fraunhofer Chile,8,16CONTEC-67400,16CONTEC-67400 C,1,01/10/16,01/10/18,24,Diseño E Implementación De Un Proceso Innovador Para La Obtención De Lumbrokinasa Como Ingrediente Estandarizado De Alimentos Saludables.
+L3,INCuBA,9,16CONTEC-67380,16CONTEC-67380,1,01/10/16,01/10/18,24,Desarrollo De Envases Activos Fungicidas Con Cobre Para Disminuir La Proliferación De Hongos En Frutas De Exportación
+L3,SouthHemp,10,16CONTEC-67381,16CONTEC-67381,1,01/10/16,01/10/18,24,Elaboración De Materiales Bioactivos A Partir De Nano-Celulosa De Cáñamo Industrial Funcionalizada Con Moléculas De Cobre Para Su Utilización En El Embalaje De Productos Con Foco En El Sector Agrícola.
+L3,SUNENERGREEN,11,16CONTEC-67391,16CONTEC-67391,1,01/10/16,01/10/18,24,"Desarrollo De Nueva Alternativa De Refrigeración Sustentable Para El Proceso  De Poscosecha De Frutas Y Hortalizas, Utilizando Un Sistema Integrado Por Pcm  (Phase Change Material) Adherido A Un Sistema Fotovoltaico."
+L3,RanchoAzul,12,16CONTEC-67400,16CONTEC-67400,1,01/10/16,01/10/18,24,Diseño E Implementación De Un Proceso Innovador Para La Obtención De Lumbrokinasa Como Ingrediente Estandarizado De Alimentos Saludables.
+L3,ChacabucoInv,13,16CONTEC-67402,16CONTEC-67402,1,01/10/16,01/10/18,24,Producción De Biomaterial Funcionalizado De Alto Valor Proveniente De Subproductos De La Industria Pesquera Y Acuícola Para Su Uso Potencial En La Industria De Alimentos
+L2,Surfrut,14,16VEIPE-65080,16VEIPE-65080,1,01/10/16,01/04/18,18,Validación y empaquetamiento de un nuevo producto denominado Puffing; trozos crocantes de frutas y hortalizas para el mercado nacional e internacional de los snack e ingredientes saludables.   
+L2,AcuaFood,15,16VEIPE-67349,16VEIPE-67349,1,01/10/16,01/10/18,24,Validación Y Empaquetamiento De Un Potenciador De Sabor Natural Y Nutricional En Base A Anchoas Sometidas A Procesos Biotecnológicos Para Ser Utilizado En Preparaciones Alimenticias.
+L1,ASEMAFOR,16,16L1FPE-67378,16L1FPE-67378,1,01/10/16,01/11/17,12,"Diseño Y Desarrollo De Un Ingrediente Funcional Especializado De Alto Nivel Proteico A Partir De Amaranto, Algarrobo Y Espino Aptos Para Población Que Padece Intolerancias Y Alergias Alimentarias. "
+L1,Aiguasol,17,16L1FPE-67414,16L1FPE-67414,1,01/10/16,01/11/17,12,Chilledbin: Optimizador De Temperatura Y Humedad Autónomo Solar Para Frutas En Etapa De Postcosecha
+INCuBA,INIA,18,16CONTEC-67380,16CONTEC-67380 C,1,01/10/16,01/10/18,24,Desarrollo De Envases Activos Fungicidas Con Cobre Para Disminuir La Proliferación De Hongos En Frutas De Exportación
+INCuBA,AIMPLAS,19,16CONTEC-67380,16CONTEC-67380 C,1,01/10/16,01/10/18,24,Desarrollo De Envases Activos Fungicidas Con Cobre Para Disminuir La Proliferación De Hongos En Frutas De Exportación
+ChacabucoInv,ULosAndes,20,16CONTEC-67402,16CONTEC-67402 C,1,01/10/16,01/10/18,24,Producción De Biomaterial Funcionalizado De Alto Valor Proveniente De Subproductos De La Industria Pesquera Y Acuícola Para Su Uso Potencial En La Industria De Alimentos
+AcuaFood,SAG,21,16VEIPE-67349,16VEIPE-67349 C,1,01/10/16,01/10/18,24,Validación Y Empaquetamiento De Un Potenciador De Sabor Natural Y Nutricional En Base A Anchoas Sometidas A Procesos Biotecnológicos Para Ser Utilizado En Preparaciones Alimenticias.
+AcuaFood,Luisa Maria,22,16VEIPE-67349,16VEIPE-67349 C,1,01/10/16,01/10/18,24,Validación Y Empaquetamiento De Un Potenciador De Sabor Natural Y Nutricional En Base A Anchoas Sometidas A Procesos Biotecnológicos Para Ser Utilizado En Preparaciones Alimenticias.
+AcuaFood,CT Agrícola Lda,23,16VEIPE-67349,16VEIPE-67349 C,1,01/10/16,01/10/18,24,Validación Y Empaquetamiento De Un Potenciador De Sabor Natural Y Nutricional En Base A Anchoas Sometidas A Procesos Biotecnológicos Para Ser Utilizado En Preparaciones Alimenticias.
+AcuaFood,Jaime Taladriz Canseco,24,16VEIPE-67349,16VEIPE-67349 C,1,01/10/16,01/10/18,24,Validación Y Empaquetamiento De Un Potenciador De Sabor Natural Y Nutricional En Base A Anchoas Sometidas A Procesos Biotecnológicos Para Ser Utilizado En Preparaciones Alimenticias.
+AcuaFood,José Antonio Galilea Vidaurre,25,16VEIPE-67349,16VEIPE-67349 C,1,01/10/16,01/10/18,24,Validación Y Empaquetamiento De Un Potenciador De Sabor Natural Y Nutricional En Base A Anchoas Sometidas A Procesos Biotecnológicos Para Ser Utilizado En Preparaciones Alimenticias.
+UFRO,HICAR,26,PYT-2016-0662,PYT-2016-0662 AM,1,03/10/16,03/10/18,24,Elaboración De Cecinas Artesanales En La Región De La Araucanía Reducidas En Sodio Y Ácidos Grasos Saturados Y Enriquecidas Con Fibra Dietaria Obtenida De Avena
+UFRO,DonQueco,27,PYT-2016-0662,PYT-2016-0662 AM,1,03/10/16,03/10/18,24,Elaboración De Cecinas Artesanales En La Región De La Araucanía Reducidas En Sodio Y Ácidos Grasos Saturados Y Enriquecidas Con Fibra Dietaria Obtenida De Avena
+UFRO,CecinasLoncoche,28,PYT-2016-0662,PYT-2016-0662 AM,1,03/10/16,03/10/18,24,Elaboración De Cecinas Artesanales En La Región De La Araucanía Reducidas En Sodio Y Ácidos Grasos Saturados Y Enriquecidas Con Fibra Dietaria Obtenida De Avena
+UFRO,Papas Arcoiris,29,PYT-2016-0674,PYT-2016-0674 AM,1,03/10/16,03/10/18,24,Obtención De Pigmentos De Papas Coloreadas Para Su Uso Como Colorante De Alimentos Procesados
+UFRO,SocGenSemPapas,30,PYT-2016-0674,PYT-2016-0674 AM,1,03/10/16,03/10/18,24,Obtención De Pigmentos De Papas Coloreadas Para Su Uso Como Colorante De Alimentos Procesados
+UFRO,Novaseed,31,PYT-2016-0674,PYT-2016-0674 AM,1,03/10/16,03/10/18,24,Obtención De Pigmentos De Papas Coloreadas Para Su Uso Como Colorante De Alimentos Procesados
+UConcepción,ForestalArauco,32,PYT-2016-0689,PYT-2016-0689 AM,1,03/10/16,03/10/20,48,Agregación De Valor A Frutos Recolectados De Rosa Mosqueta A Partir De La Creación De Grageas Comestibles Con Propiedades Funcionales Para La Incorporación De Un Eje Competitivo Que Favorece El Desarrollo De La Coordinadora Regional De Recolectoras Y Recolectores Del Bío Bío
+UConcepción,CRRecolectoresVIII,33,PYT-2016-0689,PYT-2016-0689 AM,1,03/10/16,03/10/20,48,Agregación De Valor A Frutos Recolectados De Rosa Mosqueta A Partir De La Creación De Grageas Comestibles Con Propiedades Funcionales Para La Incorporación De Un Eje Competitivo Que Favorece El Desarrollo De La Coordinadora Regional De Recolectoras Y Recolectores Del Bío Bío
+UConcepción,TAccionCultural,34,PYT-2016-0689,PYT-2016-0689 AM,1,03/10/16,03/10/20,48,Agregación De Valor A Frutos Recolectados De Rosa Mosqueta A Partir De La Creación De Grageas Comestibles Con Propiedades Funcionales Para La Incorporación De Un Eje Competitivo Que Favorece El Desarrollo De La Coordinadora Regional De Recolectoras Y Recolectores Del Bío Bío
+UBIOBIO,GMTFOODS,35,PYT-2016-0649,PYT-2016-0649 AM,1,03/10/16,03/10/18,24,Desarrollo De Productos Cárnicos Listos Para Consumir Reducidos En Sodio Mediante El Uso Combinado De Tecnologías Innovadoras: Reformulación De Ingredientes Y Altas Presiones Hidrostáticas. 
+TribusFungi,R2B Catalyst,36,PYT-2016-0624,PYT-2016-0624 AM,1,03/10/16,03/10/18,24,Uso De Fermento De Pseudocereales Y Berries Nacionales Y Para La Elaboración De Alimentos Saludables Y Funcionales De Alto Contenido Proteico
+TA-VIP,CORFO,37,,Directorio,,09/11/16,,,
+TA-VIP,MINAGRI,38,,Directorio,,09/11/16,,,
+TA-VIP,MINECON,39,,Directorio,,09/11/16,,,
+TA-VIP,Surfrut,40,,Directorio,,09/11/16,,,
+TA-VIP,Granotec,41,,Directorio,,09/11/16,,,
+TA-Process,FIA,42,,ConsejoP,,09/11/16,,,
+TA-Process,Granotec,43,,ConsejoP,,09/11/16,,,
+TA-Fruti,FIA,44,,ConsejoF,,09/11/16,,,
+TA-Fruti,ODEPA,45,,ConsejoF,,09/11/16,,,
+TA-Fruti,Surfrut,46,,ConsejoF,,09/11/16,,,
+TA-Fruti,UCENTRAL,47,,ConsejoF,,09/11/16,,,
+TA-Fruti,ASOEX,48,,ConsejoF,,09/11/16,,,
+TA-Fruti,Chilealimentos,49,,ConsejoF,,09/11/16,,,
+TA-Fruti,FEDEFRUTA,50,,ConsejoF,,09/11/16,,,
+TA-Fruti,Hortifrut,51,,ConsejoF,,09/11/16,,,
+TA-Fruti,INIA,52,,ConsejoF,,09/11/16,,,
+TA-Fruti,APÑuble,53,,ConsejoF,,09/11/16,,,
+TA-Fruti,Fruséptima,54,,ConsejoF,,09/11/16,,,
+TA-CE,UCENTRAL,55,,Comité,,09/11/16,,,
+TA,TA-Fruti,56,,,,09/11/16,,,
+TA,TA-VIP,57,,,,09/11/16,,,
+SAG,eCERT,58,,,,08/11/16,,,
+Solutec,UTMetropolitana,59,PYT-2016-0614,PYT-2016-0614 AM,1,03/10/16,03/10/18,24,Ingredientes Naturales Funcionales De Alto Valor Agregado A Partir De Subproductos De La Industria Agroindustrial Del Apio.
+Solutec,PUC,60,PYT-2016-0614,PYT-2016-0614 AM,1,03/10/16,03/10/18,24,Obtención De Ingredientes Funcionales Mediante Tecnologías Limpias A Partir De Desechos Agroindustriales Para La Formulación De Alimentos Saludables 
+Milanese,UTFSM,61,PYT-2016-0648,PYT-2016-0648 AM,1,03/10/16,03/10/20,48,"Aprovechamiento Del Residuo Del Proceso De Vinificación De Vaccinium Pyttillus (Arándanos) Y De Los Subproductos En La Elaboración De Arroz (Arroz Grado 3, Arroz Sopa, Punta De Arroz Y Harinilla), Para La Generación De Productos Alimenticios Funcionales"
+LofKumikir,Ecotierra,62,PYT-2016-0571,PYT-2016-0571 AM,1,03/10/16,03/10/19,36,Encadenamientos Productivo Y Asociativo Saludable Y Sustentable Mawiza Newen
+I+D Empresarial FIA,Epullen,63,PYT-2016-0557,PYT-2016-0557,1,03/10/16,03/10/18,24,Obtención De Un Concentrado De Proteínas Vegetales A Partir De Cereales Y Leguminosas Chilenas De Calidad Nutricional Mejorada Para Consumidores Con Requerimientos Nutricionales Especiales: Suplemento Proteico Para Adicionar A Alimentos
+I+D Empresarial FIA,USACH,64,PYT-2016-0559,PYT-2016-0559,1,03/10/16,03/10/18,24,Mejoramiento Sustentable De Las Características Nutricionales Inmuno-Moduladoras Del Huevo Azul Producido Por Comunidades Indígenas Locales Mediante El Uso De De Subproductos Generados Por Actividades Industriales De La Región De Los Lagos
+I+D Empresarial FIA,Bioingemar,65,PYT-2016-0562,PYT-2016-0562,1,03/10/16,03/10/18,24,Desarrollo De Tecnología Para La Obtención Del Ingrediente Funcional  Betaglucano Desde Avena
+I+D Empresarial FIA,LofKumikir,66,PYT-2016-0571,PYT-2016-0571,1,03/10/16,03/10/19,36,Encadenamientos Productivo Y Asociativo Saludable Y Sustentable Mawiza Newen
+I+D Empresarial FIA,AChoapa,67,PYT-2016-0612,PYT-2016-0612,1,03/10/16,03/10/18,24,"Formulación Y Desarrollo De Alimentos Saludables A Base De Miel Con Un Alto Valor Nutricional Y Funcional Usando Técnicas De Gastronomía Molecular, Enfocado A La Población Escolar"
+I+D Empresarial FIA,Solutec,68,PYT-2016-0614,PYT-2016-0614,1,03/10/16,03/10/18,24,Obtención De Ingredientes Funcionales Mediante Tecnologías Limpias A Partir De Desechos Agroindustriales Para La Formulación De Alimentos Saludables 
+I+D Empresarial FIA,Biofresco,69,PYT-2016-0622,PYT-2016-0622,1,03/10/16,03/10/18,24,Ingredientes Naturales Funcionales De Alto Valor Agregado A Partir De Subproductos De La Industria Agroindustrial Del Apio.
+I+D Empresarial FIA,TribusFungi,70,PYT-2016-0624,PYT-2016-0624,1,03/10/16,03/10/18,24,Uso De Fermento De Pseudocereales Y Berries Nacionales Y Para La Elaboración De Alimentos Saludables Y Funcionales De Alto Contenido Proteico
+I+D Empresarial FIA,Milanese,71,PYT-2016-0648,PYT-2016-0648,1,03/10/16,03/10/20,48,"Aprovechamiento Del Residuo Del Proceso De Vinificación De Vaccinium Pyttillus (Arándanos) Y De Los Subproductos En La Elaboración De Arroz (Arroz Grado 3, Arroz Sopa, Punta De Arroz Y Harinilla), Para La Generación De Productos Alimenticios Funcionales"
+I+D Empresarial FIA,UBIOBIO,72,PYT-2016-0649,PYT-2016-0649,1,03/10/16,03/10/18,24,Desarrollo De Productos Cárnicos Listos Para Consumir Reducidos En Sodio Mediante El Uso Combinado De Tecnologías Innovadoras: Reformulación De Ingredientes Y Altas Presiones Hidrostáticas. 
+I+D Empresarial FIA,UFRO,73,PYT-2016-0662,PYT-2016-0662,1,03/10/16,03/10/18,24,Elaboración De Cecinas Artesanales En La Región De La Araucanía Reducidas En Sodio Y Ácidos Grasos Saturados Y Enriquecidas Con Fibra Dietaria Obtenida De Avena
+I+D Empresarial FIA,Ecocrea,74,PYT-2016-0663,PYT-2016-0663,1,03/10/16,03/10/20,48,"Propuesta De Valor A Partir De Descartes De La Agroindustria (Pomaza, Orujo, Alperujo), De Fruta Y Hortalizas (Cascara De Kiwi, Colas De Espárragos), De Región Del Maule Para Obtener Ingredientes Funcionales Y/O Aditivos Alimentarios Especializados Para La Industria Alimentaria Y De Suplementos Nutricionales "
+I+D Empresarial FIA,UFRO,75,PYT-2016-0674,PYT-2016-0674,1,03/10/16,03/10/18,24,Obtención De Pigmentos De Papas Coloreadas Para Su Uso Como Colorante De Alimentos Procesados
+I+D Empresarial FIA,CREAS,76,PYT-2016-0686,PYT-2016-0686,1,03/10/16,03/10/19,36,Desarrollo De Un Pate Vegetal A Base De Quinoa Y Amaranto: Un Aporte Al Comercio Justo Y A La Sustentabilidad Agrícola De Los Valles De La Región De Valparaíso
+I+D Empresarial FIA,UConcepción,77,PYT-2016-0689,PYT-2016-0689,1,03/10/16,03/10/20,48,Agregación De Valor A Frutos Recolectados De Rosa Mosqueta A Partir De La Creación De Grageas Comestibles Con Propiedades Funcionales Para La Incorporación De Un Eje Competitivo Que Favorece El Desarrollo De La Coordinadora Regional De Recolectoras Y Recolectores Del Bío Bío
+I+D Empresarial FIA,Comercial CJ,78,PYT-2016-0700,PYT-2016-0700,1,03/10/16,03/10/19,36,Molino Cosecha Justa: Elaboración Y Comercialización De Harinas Libre De Gluten Producidas Con Granos De Pequeños Agricultores Nacionales
+CREAS,Manki,79,PYT-2016-0686,PYT-2016-0686 AM,1,03/10/16,03/10/19,36,Desarrollo De Un Pate Vegetal A Base De Quinoa Y Amaranto: Un Aporte Al Comercio Justo Y A La Sustentabilidad Agrícola De Los Valles De La Región De Valparaíso
+Programas Tecnológicos,FrutiCentroNorte,80,16PTECFN-66646,16PTECFN-66646,1,22/01/17,11/12/24,96,PTEC Fruticultura Centro Norte
+FrutiCentroNorte,Biofrutales,81,16PTECFN-66646,16PTECFN-66646,1,22/01/17,11/12/24,96,PTEC Fruticultura Centro Norte
+FrutiCentroNorte,PUCV,82,16PTECFN-66646,16PTECFN-66646 C,1,22/01/17,11/12/24,96,PTEC Fruticultura Centro Norte
+FrutiCentroNorte,INIA,83,16PTECFN-66646,16PTECFN-66646 C,1,22/01/17,11/12/24,96,PTEC Fruticultura Centro Norte
+FrutiCentroNorte,Fundación Chile,84,16PTECFN-66646,16PTECFN-66646 I,1,22/01/17,11/12/24,96,PTEC Fruticultura Centro Norte
+FrutiCentroNorte,UCHILE,85,16PTECFN-66646,16PTECFN-66646 I,1,22/01/17,11/12/24,96,PTEC Fruticultura Centro Norte
+FrutiCentroNorte,UTALCA,86,16PTECFN-66646,16PTECFN-66646 I,1,22/01/17,11/12/24,96,PTEC Fruticultura Centro Norte
+Comercial CJ,Fco Fuentes C.,87,PYT-2016-0700,PYT-2016-0700 AM,1,03/10/16,03/10/19,36,Molino Cosecha Justa: Elaboración Y Comercialización De Harinas Libre De Gluten Producidas Con Granos De Pequeños Agricultores Nacionales
+AChoapa,UCHILE,88,PYT-2016-0612,PYT-2016-0612 AM,1,03/10/16,03/10/18,24,"Formulación Y Desarrollo De Alimentos Saludables A Base De Miel Con Un Alto Valor Nutricional Y Funcional Usando Técnicas De Gastronomía Molecular, Enfocado A La Población Escolar"
+AChoapa,F Min Los Pelambres ,89,PYT-2016-0612,PYT-2016-0612 AM,1,03/10/16,03/10/18,24,"Formulación Y Desarrollo De Alimentos Saludables A Base De Miel Con Un Alto Valor Nutricional Y Funcional Usando Técnicas De Gastronomía Molecular, Enfocado A La Población Escolar"
+FrutiCentroNorte,UTFSM,90,16PTECFN-66646,16PTECFN-66646 I,1,22/01/17,11/12/24,96,PTEC Fruticultura Centro Norte
+FrutiCentroNorte,UAndrésBello,91,16PTECFN-66646,16PTECFN-66646 I,1,22/01/17,11/12/24,96,PTEC Fruticultura Centro Norte
+Programas Tecnológicos,FrutiCentroSur,92,16PTECFS-66641,16PTECFS-66641,1,22/01/17,11/12/24,96,PTEC Fruticultura Centro Sur
+FrutiCentroSur,FDF,93,16PTECFS-66641,16PTECFS-66641,1,22/01/17,11/12/24,96,PTEC Fruticultura Centro Sur
+FrutiCentroSur,INIA,94,16PTECFS-66641,16PTECFS-66641 C,1,22/01/17,11/12/24,96,PTEC Fruticultura Centro Sur
+FrutiCentroSur,CTIHortofrutícola,95,16PTECFS-66641,16PTECFS-66641 C,1,22/01/17,11/12/24,96,PTEC Fruticultura Centro Sur
+FrutiCentroSur,PUC,96,16PTECFS-66641,16PTECFS-66641 C,1,22/01/17,11/12/24,96,PTEC Fruticultura Centro Sur
+FrutiCentroSur,UConcepción,97,16PTECFS-66641,16PTECFS-66641 C,1,22/01/17,11/12/24,96,PTEC Fruticultura Centro Sur
+Programas Tecnológicos,FrutiSur,98,16PTECFS-66647,16PTECFS-66647,1,22/01/17,01/12/26,120,PTEC Fruticultura Sur
+FrutiSur,UCHILE,99,16PTECFS-66647,16PTECFS-66647,1,22/01/17,01/12/26,120,PTEC Fruticultura Sur
+FrutiSur,Copefrut,100,16PTECFS-66647,16PTECFS-66647 A,1,22/01/17,01/12/26,120,PTEC Fruticultura Sur
+FrutiSur,UFRO,101,16PTECFS-66647,16PTECFS-66647 C,1,22/01/17,01/12/26,120,PTEC Fruticultura Sur
+FrutiSur,UConcepción,102,16PTECFS-66647,16PTECFS-66647 C,1,22/01/17,01/12/26,120,PTEC Fruticultura Sur
+FrutiSur,UAustral,103,16PTECFS-66647,16PTECFS-66647 C,1,22/01/17,01/12/26,120,PTEC Fruticultura Sur
+FrutiSur,CEAF,104,16PTECFS-66647,16PTECFS-66647 C,1,22/01/17,01/12/26,120,PTEC Fruticultura Sur
+FrutiSur,INIA,105,16PTECFS-66647,16PTECFS-66647 C,1,22/01/17,01/12/26,120,PTEC Fruticultura Sur
+SNILabsAS,USACH,106,688535-10-LQ16,688535-10-LQ16,1,30/03/17,30/03/18,12,Implementación de un Sistema Nacional Integrado de Laboratorios Públicos de Alto Estándar especializados para fortalecer las capacidades analíticas y diagnósticas en Calidad e Inocuidad Alimentaria
+SNILabsAS,SNILabsAS-CTS,107,688535-10-LQ16,688535-10-LQ16,1,30/03/17,30/03/18,12,Implementación de un Sistema Nacional Integrado de Laboratorios Públicos de Alto Estándar especializados para fortalecer las capacidades analíticas y diagnósticas en Calidad e Inocuidad Alimentaria
+SNILabsAS-CTS,MINSAL,108,688535-10-LQ16,688535-10-LQ16-CTS,1,30/03/17,30/03/18,12,Implementación de un Sistema Nacional Integrado de Laboratorios Públicos de Alto Estándar especializados para fortalecer las capacidades analíticas y diagnósticas en Calidad e Inocuidad Alimentaria
+SNILabsAS-CTS,ISP,109,688535-10-LQ16,688535-10-LQ16-CTS,1,30/03/17,30/03/18,12,Implementación de un Sistema Nacional Integrado de Laboratorios Públicos de Alto Estándar especializados para fortalecer las capacidades analíticas y diagnósticas en Calidad e Inocuidad Alimentaria
+SNILabsAS-CTS,SAG,110,688535-10-LQ16,688535-10-LQ16-CTS,1,30/03/17,30/03/18,12,Implementación de un Sistema Nacional Integrado de Laboratorios Públicos de Alto Estándar especializados para fortalecer las capacidades analíticas y diagnósticas en Calidad e Inocuidad Alimentaria
+SNILabsAS-CTS,SERNAPESCA,111,688535-10-LQ16,688535-10-LQ16-CTS,1,30/03/17,30/03/18,12,Implementación de un Sistema Nacional Integrado de Laboratorios Públicos de Alto Estándar especializados para fortalecer las capacidades analíticas y diagnósticas en Calidad e Inocuidad Alimentaria
+SNILabsAS-CTS,INN,112,688535-10-LQ16,688535-10-LQ16-CTS,1,30/03/17,30/03/18,12,Implementación de un Sistema Nacional Integrado de Laboratorios Públicos de Alto Estándar especializados para fortalecer las capacidades analíticas y diagnósticas en Calidad e Inocuidad Alimentaria
+Solutec,DICTUC,113,16CONTEC-64835,16CONTEC-64835C,1,01/11/16,01/02/18,15, Desarrollo de ingredientes funcionales para la formulación de alimentos horneados saludables
+Laboratorio Movil,UTFSM,114,16CONTEC-64850,16CONTEC-64850C,1,01/11/16,01/11/17,12,Sistema avanzado de monitoreo en tiempo real para el análisis de parámetros en estanques de vinificación
+L3,Solutec,115,16CONTEC-64835,16CONTEC-64835,1,01/11/16,01/02/18,15, Desarrollo de ingredientes funcionales para la formulación de alimentos horneados saludables
+L3,Laboratorio Movil,116,16CONTEC-64850,16CONTEC-64850,1,01/11/16,01/11/17,12,Sistema avanzado de monitoreo en tiempo real para el análisis de parámetros en estanques de vinificación
+L3,FcuatroF,117,16CONTEC-64860,16CONTEC-64860,1,01/11/16,01/11/18,24,"Valorización de residuos agroindustriales mediante el cultivo de la mosca soldado negro (Hermetia illucens), utilizando protocolos sustentables de estabilización de residuos."
+L1,CASOL,118,16L1FPE-64905,16L1FPE-64905,1,01/11/16,01/11/17,12,"Diseño y desarrollo de plásticos biodegradables a partir de mezclas de macroalgas y microalgas de las costas chilenas, para uso en la industria agroalimentaria."
+FcuatroF,CEAP,119,16CONTEC-64850,16CONTEC-64860C,1,01/11/16,01/11/18,24,Sistema avanzado de monitoreo en tiempo real para el análisis de parámetros en estanques de vinificación
+Centros Tecnológicos,CETA,120,15CTAL-46759,15CTAL-46759,1,27/11/16,27/11/26,120,Centro Tecnológico para la Innovación Alimentaria CETA
+Programas Tecnológicos,CO-INVENTA,121,16PTECAE-66644,16PTECAE-66644,1,01/12/16,01/12/21,60,Plataforma de Innovación en Envases y Embalajes para Alimentos (CO-INVENTA)
+Programas Tecnológicos,IFAN,122,16PTECAI-66648,16PTECAI-66648,1,01/12/16,01/12/21,60,Consorcio IFAN -Desarrollo Sinérgico de Ingredientes Funcionales y Aditivos Naturales
+IFAN,CCF,123,16PTECAI-66648,16PTECAI-66648,1,01/12/16,01/12/21,60,Consorcio IFAN -Desarrollo Sinérgico de Ingredientes Funcionales y Aditivos Naturales
+IFAN,Gelymar,124,16PTECAI-66648,16PTECAI-66648 A,1,01/12/16,01/12/21,60,Consorcio IFAN -Desarrollo Sinérgico de Ingredientes Funcionales y Aditivos Naturales
+IFAN,Watts,125,16PTECAI-66648,16PTECAI-66648 A,1,01/12/16,01/12/21,60,Consorcio IFAN -Desarrollo Sinérgico de Ingredientes Funcionales y Aditivos Naturales
+IFAN,PigmentosNaturales,126,16PTECAI-66648,16PTECAI-66648 A,1,01/12/16,01/12/21,60,Consorcio IFAN -Desarrollo Sinérgico de Ingredientes Funcionales y Aditivos Naturales
+IFAN,Granotec,127,16PTECAI-66648,16PTECAI-66648 C,1,01/12/16,01/12/21,60,Consorcio IFAN -Desarrollo Sinérgico de Ingredientes Funcionales y Aditivos Naturales
+IFAN,ChileBotanics,128,16PTECAI-66648,16PTECAI-66648 C,1,01/12/16,01/12/21,60,Consorcio IFAN -Desarrollo Sinérgico de Ingredientes Funcionales y Aditivos Naturales
+IFAN,PUC,129,16PTECAI-66648,16PTECAI-66648 C,1,01/12/16,01/12/21,60,Consorcio IFAN -Desarrollo Sinérgico de Ingredientes Funcionales y Aditivos Naturales
+IFAN,ULosAndes,130,16PTECAI-66648,16PTECAI-66648 C,1,01/12/16,01/12/21,60,Consorcio IFAN -Desarrollo Sinérgico de Ingredientes Funcionales y Aditivos Naturales
+IFAN,UMagallanes,131,16PTECAI-66648,16PTECAI-66648 C,1,01/12/16,01/12/21,60,Consorcio IFAN -Desarrollo Sinérgico de Ingredientes Funcionales y Aditivos Naturales
+IFAN,UAndrésBello,132,16PTECAI-66648,16PTECAI-66648 C,1,01/12/16,01/12/21,60,Consorcio IFAN -Desarrollo Sinérgico de Ingredientes Funcionales y Aditivos Naturales
+IFAN,Quillayes,133,16PTECAI-66648,16PTECAI-66648 I,1,01/12/16,01/12/21,60,Consorcio IFAN -Desarrollo Sinérgico de Ingredientes Funcionales y Aditivos Naturales
+IFAN,PF,134,16PTECAI-66648,16PTECAI-66648 I,1,01/12/16,01/12/21,60,Consorcio IFAN -Desarrollo Sinérgico de Ingredientes Funcionales y Aditivos Naturales
+IFAN,Prinal,135,16PTECAI-66648,16PTECAI-66648 I,1,01/12/16,01/12/21,60,Consorcio IFAN -Desarrollo Sinérgico de Ingredientes Funcionales y Aditivos Naturales
+CO-INVENTA,USACH,136,16PTECAE-66644,16PTECAE-66644,1,01/12/16,01/12/21,60,Plataforma de Innovación en Envases y Embalajes para Alimentos (CO-INVENTA)
+CO-INVENTA,AG Industriales Plástico,137,16PTECAE-66644,16PTECAE-66644 A,1,01/12/16,01/12/21,60,Plataforma de Innovación en Envases y Embalajes para Alimentos (CO-INVENTA)
+CO-INVENTA,Chilealimentos,138,16PTECAE-66644,16PTECAE-66644 A,1,01/12/16,01/12/21,60,Plataforma de Innovación en Envases y Embalajes para Alimentos (CO-INVENTA)
+CO-INVENTA,UCHILE,139,16PTECAE-66644,16PTECAE-66644 C,1,01/12/16,01/12/21,60,Plataforma de Innovación en Envases y Embalajes para Alimentos (CO-INVENTA)
+CO-INVENTA,CREAS,140,16PTECAE-66644,16PTECAE-66644 C,1,01/12/16,01/12/21,60,Plataforma de Innovación en Envases y Embalajes para Alimentos (CO-INVENTA)
+CO-INVENTA,UTALCA,141,16PTECAE-66644,16PTECAE-66644 C,1,01/12/16,01/12/21,60,Plataforma de Innovación en Envases y Embalajes para Alimentos (CO-INVENTA)
+CO-INVENTA,PUC,142,16PTECAE-66644,16PTECAE-66644 C,1,01/12/16,01/12/21,60,Plataforma de Innovación en Envases y Embalajes para Alimentos (CO-INVENTA)
+CO-INVENTA,UTMetropolitana,143,16PTECAE-66644,16PTECAE-66644 C,1,01/12/16,01/12/21,60,Plataforma de Innovación en Envases y Embalajes para Alimentos (CO-INVENTA)
+CO-INVENTA,Samfood,144,16PTECAE-66644,16PTECAE-66644 I,1,01/12/16,01/12/21,60,Plataforma de Innovación en Envases y Embalajes para Alimentos (CO-INVENTA)
+CO-INVENTA,IslaNatura,145,16PTECAE-66644,16PTECAE-66644 I,1,01/12/16,01/12/21,60,Plataforma de Innovación en Envases y Embalajes para Alimentos (CO-INVENTA)
+CO-INVENTA,Achoapa,146,16PTECAE-66644,16PTECAE-66644 I,1,01/12/16,01/12/21,60,Plataforma de Innovación en Envases y Embalajes para Alimentos (CO-INVENTA)
+CO-INVENTA,CleanEnergy,147,16PTECAE-66644,16PTECAE-66644 I,1,01/12/16,01/12/21,60,Plataforma de Innovación en Envases y Embalajes para Alimentos (CO-INVENTA)
+ACHIPIA,SNILabsAS,148,688535-10-LQ16,688535-10-LQ16,1,01/12/16,01/03/18,15,Implementación de un Sistema Nacional Integrado de Laboratorios Públicos de Alto Estándar especializados para fortalecer las capacidades analíticas y diagnósticas en Calidad e Inocuidad Alimentaria
+ACHIPIA,ContaQuim,149,688535-7-LQ16,688535-7-LQ16,1,01/12/16,01/03/18,15,"Diseño e implementación de un Plan Nacional de Cierre de Brechas de Contaminantes Químicos (Agroquímicos, residuos medicamentos veterinarios, otros) en Productos Primarios"
+ACHIPIA,EstándarNC,150,688535-8-LQ16,688535-8-LQ16,1,01/12/16,01/03/18,15,Diseño e implementación de estándares para la disminución programa de nutrientes críticos en las Mipymes alimentarias
+TA-Process,SONAPESCA,151,,ConsejoP,,01/07/16,,,
+UCHILE,CET Hortícola UChile,152,,,,05/01/16,,,
+TA,INVESTCHILE,153,,,,01/01/16,,,
+TA,PROCHILE,154,,,,01/01/16,,,
+ACHIPIA,EstándarAF,155,688535-9-LQ16,688535-9-LQ16,1,01/12/16,01/03/18,15,Diseño e Implementación de un sistema de Gestión para Estándares en AlimentosFuncionales (AF) y Reconocimiento de la Categoría de AF en el Reglamento Sanitario de los Alimentos (RSA)
+IFI,IFI-Frutícola,156,16IFI-66070,16IFI-66070,1,19/12/16,01/01/17,15,IFI Frutícola
+GDC,IFI,157,,,,01/01/16,,,
+GCT,Programas Tecnológicos,158,,,,01/01/16,,,
+IFI,IFI-Cero Pérdidas,159,16IFI-66278,16IFI-66278,1,22/12/16,01/01/17,12,IFI Cero Pérdida
+Robinson Crusoe,GoodFood4U,160,PYT-2016-0197,PYT-2016-0197AM,1,09/11/15,09/11/19,48,Procesamiento Y Comercialización De Ingredientes Funcionales A Base De Berries Silvestres A Través De La Comunidad De Mujeres De La Isla Robinson Crusoe
+I+D Empresarial FIA,C. JC Sleman A.,161,PYT-2016-0016,PYT-2016-0016,1,09/11/15,09/11/17,24,Desarrollo y comercialización de aguas lluvia funcionalizadas con berries nativos
+I+D Empresarial FIA,CHILENUT,162,PYT-2016-0064,PYT-2016-0064,1,09/11/15,09/11/17,24,Micotoxinas: Diseño y Desarrollo de un Programa Integrado de Monitoreo y Análisis para la calidad e Inocuidad Alimentaria (PRIMACIA) aplicado a frutos secos
+I+D Empresarial FIA,ECOTERRA,163,PYT-2016-0159,PYT-2016-0159,1,09/11/15,09/11/18,36,Desarrollo y validación de Ovoproductos nutracéuticos a partir de huevos Free Range producidos bajo el sistema de comercio justo asociativo con pequeños productores para el mercado nacional e internacional
+I+D Empresarial FIA,Robinson Crusoe,164,PYT-2016-0197,PYT-2016-0197,1,09/11/15,09/11/19,48,Procesamiento y comercialización de ingredientes funcionales a base de berries silvestres a través de la comunidad de mujeres de la Isla Robinson Crusoe
+ECOTERRA,AGRICOVIAL,165,PYT-2016-0159,PYT-2016-0159AM,1,09/11/15,09/11/18,36,Desarrollo Y Validación De Ovoproductos Nutracéuticos A Partir De Huevos Free Range Producidos Bajo El Sistema De Comercio Justo Asociativo Con Pequeños Productores Para El Mercado Nacional E Internacional
+ECOTERRA,INDAP,166,PYT-2016-0159,PYT-2016-0159AM,1,09/11/15,09/11/18,36,Desarrollo Y Validación De Ovoproductos Nutracéuticos A Partir De Huevos Free Range Producidos Bajo El Sistema De Comercio Justo Asociativo Con Pequeños Productores Para El Mercado Nacional E Internacional
+CHILENUT,FMed-UCHILE,167,PYT-2016-0064,PYT-2016-0064AM,1,09/11/15,09/11/17,24,Micotoxinas: Diseño y Desarrollo de un Programa Integrado de Monitoreo y Análisis para la calidad e Inocuidad Alimentaria (PRIMACIA) aplicado a frutos secos
+C. JC Sleman A.,NativeFood,168,PYT-2016-0016,PYT-2016-0016AM,1,09/11/15,09/11/17,24,Desarrollo y comercialización de aguas lluvia funcionalizadas con berries nativos
+CETA,PUC,169,15CTAL-46759,15CTAL-46759,1,27/11/15,27/11/25,120,Centro Tecnológico para la Innovación Alimentaria CETA
+CETA,Härting,170,15CTAL-46759,15CTAL-46759 A,1,27/11/15,27/11/25,120,Centro Tecnológico para la Innovación Alimentaria CETA
+CETA,AB Chile,171,15CTAL-46759,15CTAL-46759 A,1,27/11/15,27/11/25,120,Centro Tecnológico para la Innovación Alimentaria CETA
+CETA,UCHILE,172,15CTAL-46759,15CTAL-46759 C,1,27/11/15,27/11/25,120,Centro Tecnológico para la Innovación Alimentaria CETA
+CETA,UTALCA,173,15CTAL-46759,15CTAL-46759 C,1,27/11/15,27/11/25,120,Centro Tecnológico para la Innovación Alimentaria CETA
+CETA,UFRO,174,15CTAL-46759,15CTAL-46759 C,1,27/11/15,27/11/25,120,Centro Tecnológico para la Innovación Alimentaria CETA
+CETA,Fraunhofer Chile,175,15CTAL-46759,15CTAL-46759 C,1,27/11/15,27/11/25,120,Centro Tecnológico para la Innovación Alimentaria CETA
+CETA,Fundación Chile,176,15CTAL-46759,15CTAL-46759 C,1,27/11/15,27/11/25,120,Centro Tecnológico para la Innovación Alimentaria CETA
+PDT,PUC,177,15PDTD-46542,15PDTD-46542,1,01/12/15,01/06/17,18,Ingeniería Gastronómica Para La Innovación En Alimentos
+L3,Happy Plum,178,15CONTEC-47649,15CONTEC-47649,1,01/12/15,01/12/16,12,Desarrollo De Mejorados Y Nuevos Productos Nutracéuticos  De Alto Valor Agregado A Base De Ciruelas
+L2,Quimas,179,15VEIPE-47958,15VEIPE-47958,1,01/12/15,01/12/17,24,"Nuevos embalajes activos que integran tecnologías de poscosecha, para la preservación de frutas frescas"
+L2,DICTUC,180,15VEIPE-48016,15VEIPE-48016,1,01/12/15,01/12/17,24,Recuperador de Aromas: Validación Tecnológica y Enológica-Comercial
+L1,Lacteos Los Puquios,181,15L1FPE-47637,15L1FPE-47637,1,01/12/15,01/12/16,12,Desarrollo de Prototipo de Bebida Funcional Simbiótica Dirigida al Adulto Mayor
+L1,SPS,182,15L1FPE-47997,15L1FPE-47997,1,01/12/15,01/12/16,12,Fracciones de quínoa para abastecer de nuevos insumos proteicos a la industria alimentaria.
+Happy Plum,CREAS,183,15CONTEC-47649,15CONTEC-47649C,1,01/12/15,01/12/16,12,Desarrollo De Mejorados Y Nuevos Productos Nutracéuticos  De Alto Valor Agregado A Base De Ciruelas
+DICTUC,Viña Santa Rita,184,15VEIPE-48016,15VEIPE-48016AM,1,01/12/15,01/12/17,24,Recuperador de Aromas: Validación Tecnológica y Enológica-Comercial
+FEDEFRUTA,CET-AProcesados,185,15CET2-46940,15CET2-46940,1,03/12/15,03/12/18,36,Centro De Extensionismo Tecnológico Para Fortalecer La Competitividad De La Industria De Alimentos Procesados.
+CET-AProcesados,CREAS,186,15CET2-46940,15CET2-46940 AM,1,03/12/15,03/12/18,36,Centro De Extensionismo Tecnológico Para Fortalecer La Competitividad De La Industria De Alimentos Procesados.
+CET-AProcesados,UTALCA,187,15CET2-46940,15CET2-46940 AM,1,03/12/15,03/12/18,36,Centro De Extensionismo Tecnológico Para Fortalecer La Competitividad De La Industria De Alimentos Procesados.
+CET-AProcesados,Frusexta,188,15CET2-46940,15CET2-46940 AM,1,03/12/15,03/12/18,36,Centro De Extensionismo Tecnológico Para Fortalecer La Competitividad De La Industria De Alimentos Procesados.
+CET-AProcesados,CDT Agroindustrial UConce,189,15CET2-46940,15CET2-46940 AM,1,03/12/15,03/12/18,36,Centro De Extensionismo Tecnológico Para Fortalecer La Competitividad De La Industria De Alimentos Procesados.
+CET-AProcesados,FI Agrícola UConce,190,15CET2-46940,15CET2-46940 AM,1,03/12/15,03/12/18,36,Centro De Extensionismo Tecnológico Para Fortalecer La Competitividad De La Industria De Alimentos Procesados.
+CET-AProcesados,Chilealimentos,191,15CET2-46940,15CET2-46940C,1,03/12/15,03/12/18,36,Centro De Extensionismo Tecnológico Para Fortalecer La Competitividad De La Industria De Alimentos Procesados.
+CET-AProcesados,Gesproinnova,192,15CET2-46940,15CET2-46940C,1,03/12/15,03/12/18,36,Centro De Extensionismo Tecnológico Para Fortalecer La Competitividad De La Industria De Alimentos Procesados.
+CET-AProcesados,Fundación Chile,193,15CET2-46940,15CET2-46940C,1,03/12/15,03/12/18,36,Centro De Extensionismo Tecnológico Para Fortalecer La Competitividad De La Industria De Alimentos Procesados.
+TA-CE,MINAGRI,194,,Comité,,09/11/15,,,
+CET-AProcesados,UCDavis,195,15CET2-46940,15CET2-46940C,1,03/12/15,03/12/18,36,Centro De Extensionismo Tecnológico Para Fortalecer La Competitividad De La Industria De Alimentos Procesados.
+Centros Extensionismo,FEDEFRUTA,196,15CET2-46940,15CET2-46940,1,03/12/15,03/12/18,36,Centro De Extensionismo Tecnológico Para Fortalecer La Competitividad De La Industria De Alimentos Procesados.
+CET-AProcesados,INIA,197,15CET2-46940,15CET2-46940 AM,1,03/12/15,03/12/18,36,Centro De Extensionismo Tecnológico Para Fortalecer La Competitividad De La Industria De Alimentos Procesados.
+Viña Santa Rita,Fraunhofer Chile,198,15CONTEC-48011,15CONTEC-48011C,1,15/12/15,15/12/17,24,Valorización del orujo de uva para el desarrollo de ingredientes de alto valor
+Nueces del Choapa,Fraunhofer Chile,199,15CONTEC-47988,15CONTEC-47988C,1,15/12/15,15/12/16,12,Desarrollo de Nuevos Productos Nutracéuticos Basados en Principios Bioactivos de Nueces Chilenas y sus Subproductos
+L3,Sopraval,200,15CONTEC-47956,15CONTEC-47956,1,15/12/15,15/06/17,18,Sistema de Monitoreo y Control de Olores de Efluentes Gaseosos Tratados por Sistemas Biológicos
+L3,Nueces del Choapa,201,15CONTEC-47988,15CONTEC-47988,1,15/12/15,15/12/16,12,Desarrollo de Nuevos Productos Nutracéuticos Basados en Principios Bioactivos de Nueces Chilenas y sus Subproductos
+L3,Viña Santa Rita,202,15CONTEC-48011,15CONTEC-48011,1,15/12/15,15/12/17,24,Valorización del orujo de uva para el desarrollo de ingredientes de alto valor
+L1,Team Foods,203,15L1FPE-47981,15L1FPE-47981,1,15/12/15,15/12/16,12,Desarrollo De Nuevo Ingrediente Funcional De Bajo Aporte Calórico En Base A Compuesto Natural
+FIA,I+D Empresarial FIA,204,,,,01/02/15,,,
+TA-Process,ACHIPIA,205,,ConsejoP,,28/01/15,,,
+TA-Process,Carozzi,206,,ConsejoP,,28/01/15,,,
+TA-Process,Chilealimentos,207,,ConsejoP,,28/01/15,,,
+TA-Process,ChileBotanics,208,,ConsejoP,,28/01/15,,,
+TA-Process,Contexto Ciudadano,209,,ConsejoP,,28/01/15,,,
+TA-Process,División Políticas Públicas MINSAL,210,,ConsejoP,,28/01/15,,,
+TA-Process,INTA,211,,ConsejoP,,28/01/15,,,
+TA-Process,Nutrapharm,212,,ConsejoP,,28/01/15,,,
+TA-Process,SPS,213,,ConsejoP,,28/01/15,,,
+EstándarNC-CTS,MINSAL,214,688535-8-LQ16,688535-8-LQ16-CTS,1,30/03/17,30/03/18,12,Diseño e implementación de estándares para la disminución programa de nutrientes críticos en las Mipymes alimentarias
+EstándarNC-CTS,CPL,215,688535-8-LQ16,688535-8-LQ16-CTS,1,30/03/17,30/03/18,12,Diseño e implementación de estándares para la disminución programa de nutrientes críticos en las Mipymes alimentarias
+EstándarNC-CTS,Subsecretaría Economía,216,688535-8-LQ16,688535-8-LQ16-CTS,1,30/03/17,30/03/18,12,Diseño e implementación de estándares para la disminución programa de nutrientes críticos en las Mipymes alimentarias
+EstándarNC-CTS,SERCOTEC,217,688535-8-LQ16,688535-8-LQ16-CTS,1,30/03/17,30/03/18,12,Diseño e implementación de estándares para la disminución programa de nutrientes críticos en las Mipymes alimentarias
+EstándarNC-CTS,INDAP,218,688535-8-LQ16,688535-8-LQ16-CTS,1,30/03/17,30/03/18,12,Diseño e implementación de estándares para la disminución programa de nutrientes críticos en las Mipymes alimentarias
+Bienes Públicos,Fundación Chile,219,15BP-45344,15BP-45344,2,19/11/15,19/05/17,18,Plataforma De Normativas Y Exigencias Comerciales En Inocuidad Para La Industria De Frutas Y Hortalizas Procesadas 
+Fundación Chile,Chilealimentos,220,15BP-45344,15BP-45344 AM,2,19/11/15,19/05/17,18,Plataforma De Normativas Y Exigencias Comerciales En Inocuidad Para La Industria De Frutas Y Hortalizas Procesadas 
+Fundación Chile,PROCHILE,221,15BP-45344,15BP-45344 AM,2,19/11/15,19/05/17,18,Plataforma De Normativas Y Exigencias Comerciales En Inocuidad Para La Industria De Frutas Y Hortalizas Procesadas 
+Fundación Chile,SAG,222,15BP-45344,15BP-45344 AM,2,19/11/15,19/05/17,18,Plataforma De Normativas Y Exigencias Comerciales En Inocuidad Para La Industria De Frutas Y Hortalizas Procesadas 
+Fundación Chile,ACHIPIA,223,15BP-45344,15BP-45344 AM,2,19/11/15,19/05/17,18,Plataforma De Normativas Y Exigencias Comerciales En Inocuidad Para La Industria De Frutas Y Hortalizas Procesadas 
+Bienes Públicos,INIA,224,15BP-45394,15BP-45394,2,20/11/15,20/11/17,24,"Evaluación De Los Niveles De Arsénico En El Arroz Comercializado En Chile: Una Estrategia Para Promover La Inocuidad De Los Alimentos, Salud De La Población, Sustentabilidad Y Competitividad De Cultivo. "
+INIA,Subsecretaría Agricultura,225,15BP-45394,15BP-45394 AM,2,20/11/15,20/11/17,24,"Evaluación De Los Niveles De Arsénico En El Arroz Comercializado En Chile: Una Estrategia Para Promover La Inocuidad De Los Alimentos, Salud De La Población, Sustentabilidad Y Competitividad De Cultivo. "
+INIA,Arroceros Unicaven,226,15BP-45394,15BP-45394 AM,2,20/11/15,20/11/17,24,"Evaluación De Los Niveles De Arsénico En El Arroz Comercializado En Chile: Una Estrategia Para Promover La Inocuidad De Los Alimentos, Salud De La Población, Sustentabilidad Y Competitividad De Cultivo. "
+INIA,Comités Campesinos Arroz,227,15BP-45394,15BP-45394 AM,2,20/11/15,20/11/17,24,"Evaluación De Los Niveles De Arsénico En El Arroz Comercializado En Chile: Una Estrategia Para Promover La Inocuidad De Los Alimentos, Salud De La Población, Sustentabilidad Y Competitividad De Cultivo. "
+INIA,Comité Crucero de Buli,228,15BP-45394,15BP-45394 AM,2,20/11/15,20/11/17,24,"Evaluación De Los Niveles De Arsénico En El Arroz Comercializado En Chile: Una Estrategia Para Promover La Inocuidad De Los Alimentos, Salud De La Población, Sustentabilidad Y Competitividad De Cultivo. "
+INIA,Comité Arroz Millauquen Unido,229,15BP-45394,15BP-45394 AM,2,20/11/15,20/11/17,24,"Evaluación De Los Niveles De Arsénico En El Arroz Comercializado En Chile: Una Estrategia Para Promover La Inocuidad De Los Alimentos, Salud De La Población, Sustentabilidad Y Competitividad De Cultivo. "
+INIA,Comité Arrocero Otingue,230,15BP-45394,15BP-45394 AM,2,20/11/15,20/11/17,24,"Evaluación De Los Niveles De Arsénico En El Arroz Comercializado En Chile: Una Estrategia Para Promover La Inocuidad De Los Alimentos, Salud De La Población, Sustentabilidad Y Competitividad De Cultivo. "
+INIA,UConcepción,231,15BP-45394,15BP-45394 C,2,20/11/15,20/11/17,24,"Evaluación De Los Niveles De Arsénico En El Arroz Comercializado En Chile: Una Estrategia Para Promover La Inocuidad De Los Alimentos, Salud De La Población, Sustentabilidad Y Competitividad De Cultivo. "
+Bienes Públicos,CERES BCA,232,15BPE-47219,15BPE-47219,2,11/12/15,11/06/17,18,Desarrollo de un sistema de gestión para la trazabilidad en base a estándares: un modelo a partir de la cadena de alimentos.
+CERES BCA,Chilealimentos,233,15BPE-47219,15BPE-47219 AM,2,11/12/15,11/06/17,18,Desarrollo de un sistema de gestión para la trazabilidad en base a estándares: un modelo a partir de la cadena de alimentos.
+CERES BCA,Sub Redes Asistenciales MINSAL,234,15BPE-47219,15BPE-47219 AM,2,11/12/15,11/06/17,18,Desarrollo de un sistema de gestión para la trazabilidad en base a estándares: un modelo a partir de la cadena de alimentos.
+CERES BCA,Subsecretaría Agricultura,235,15BPE-47219,15BPE-47219 AM,2,11/12/15,11/06/17,18,Desarrollo de un sistema de gestión para la trazabilidad en base a estándares: un modelo a partir de la cadena de alimentos.
+Bienes Públicos,Consorcio Lechero,236,15BPE-47256,15BPE-47256,2,01/12/15,01/12/17,24,Plataforma de Sustentabilidad para mejorar la competitividad estratégica de la cadena láctea chilena en el ámbito nacional e internacional adaptando la metodología DSF (Dairy Sustainability Framework).
+Consorcio Lechero,ODEPA,237,15BPE-47256,15BPE-47256 AM,2,01/12/15,01/12/17,24,Plataforma de Sustentabilidad para mejorar la competitividad estratégica de la cadena láctea chilena en el ámbito nacional e internacional adaptando la metodología DSF (Dairy Sustainability Framework).
+Bienes Públicos,CIREN,238,15BPE-47269,15BPE-47269,2,01/12/15,01/12/17,24,Modelo de adaptación al cambio climático por medio de la zonificación de aptitud productiva de especies hortofrutícolas priorizadas en la Región del Biobío.
+CIREN,SEREMI MINAGRI BIOBIO,239,15BPE-47269,15BPE-47269 AM,2,01/12/15,01/12/17,24,Modelo de adaptación al cambio climático por medio de la zonificación de aptitud productiva de especies hortofrutícolas priorizadas en la Región del Biobío.
+CIREN,INIA - Quilamapu,240,15BPE-47269,15BPE-47269 C,2,01/12/15,01/12/17,24,Modelo de adaptación al cambio climático por medio de la zonificación de aptitud productiva de especies hortofrutícolas priorizadas en la Región del Biobío.
+Centros Extensionismo,INDUPAN,241,15CET1-38847,15CET1-38847,2,11/05/15,11/10/15,5,Plan Estratégico-Diagnóstico Centro De Extensionismo Tecnológico
+INDUPAN,15CET1-38847,242,15CET1-38847,15CET1-38847,2,11/05/15,11/10/15,5,Plan Estratégico-Diagnóstico Centro De Extensionismo Tecnológico
+15CET1-38847,UIBC,243,15CET1-38847,15CET1-38847 AM,2,11/05/15,11/10/15,5,Plan Estratégico-Diagnóstico Centro De Extensionismo Tecnológico
+15CET1-38847,Maturana y Ortega,244,15CET1-38847,15CET1-38847 AM,2,11/05/15,11/10/15,5,Plan Estratégico-Diagnóstico Centro De Extensionismo Tecnológico
+15CET1-38847,ULosAndes,245,15CET1-38847,15CET1-38847 AM,2,11/05/15,11/10/15,5,Plan Estratégico-Diagnóstico Centro De Extensionismo Tecnológico
+15CET1-38847,UTFSM,246,15CET1-38847,15CET1-38847 AM,2,11/05/15,11/10/15,5,Plan Estratégico-Diagnóstico Centro De Extensionismo Tecnológico
+Centros Extensionismo,Chilealimentos,247,15CET1-38864,15CET1-38864,2,11/05/15,11/10/15,5,Diágnóstico Centro De Extensionismo Tecnológico Para La Industria De Frutas Y Hortalizas Procesadas De Las Regiones V A Viii
+Chilealimentos,15CET1-38864,248,15CET1-38864,15CET1-38864,2,11/05/15,11/10/15,5,Diágnóstico Centro De Extensionismo Tecnológico Para La Industria De Frutas Y Hortalizas Procesadas De Las Regiones V A Viii
+15CET1-38864,Fundación Chile,249,15CET1-38864,15CET1-38864 AM,2,11/05/15,11/10/15,5,Diágnóstico Centro De Extensionismo Tecnológico Para La Industria De Frutas Y Hortalizas Procesadas De Las Regiones V A Viii
+Centros Extensionismo,FEDEFRUTA,250,15CET1-38872,15CET1-38872,2,11/05/15,11/10/15,5,Diagnostico Para Diseño De Un Centro De Extensionismo Tecnológico Para La Agroindustria De Transformacion De Frutas Y Hortalizas
+FEDEFRUTA,15CET1-38872,251,15CET1-38872,15CET1-38872,2,11/05/15,11/10/15,5,Diagnostico Para Diseño De Un Centro De Extensionismo Tecnológico Para La Agroindustria De Transformacion De Frutas Y Hortalizas
+15CET1-38872,Gesproinnova,252,15CET1-38872,15CET1-38872 AM,2,11/05/15,11/10/15,5,Diagnostico Para Diseño De Un Centro De Extensionismo Tecnológico Para La Agroindustria De Transformacion De Frutas Y Hortalizas
+Nodo,COPEVAL,253,15NOES-48785,15NOES-48785,2,01/01/16,01/01/18,24,Nodo Estratégico  Corriente Alimentaria
+COPEVAL,Beitia y García,254,15NOES-48785,15NOES-48785AM,2,02/01/16,02/01/18,24,Nodo Estratégico  Corriente Alimentaria
+PDT,Abud Sittler,255,15PDTD-43757,15PDTD-43757,2,01/08/15,01/02/17,18,"Uso De Cobertores Plásticos En El Cultivo Del Kiwi Amarillo, Transferencia Tecnológica De Unpotencial Sistema De Contención De Pseudomona Syringae Pv Actinidiae (Psa)"
+PDT,Codesser,256,15PDTD-44828,15PDTD-44828,2,01/01/16,01/07/17,18,Difusión De Tecnologías De Información Para Apoyar La Gestión De Riego De Precisión En Cultivos Industriales
+PDT,COPEVAL,257,15PDTD-45833,15PDTD-45833,2,01/12/15,01/06/17,18,Mandarinos: Alternativas Para Una Producción Eficiente Y Sustentable. 
+PDT,Viña Santa Carolina,258,15PDTD-46264,15PDTD-46264,2,01/12/15,01/06/17,18,Manejos Para Enfrentar El Cambio Climático En Vid Vinífera
+PDT,COPEVAL,259,15PDTD-46492,15PDTD-46492,2,01/11/15,01/05/17,18,"Cerezos O´Higgins 2020: Huertos Peatonales, Coberturas Y Automatización De Labores."
+PDT,COPEVAL,260,15PDTD-46497,15PDTD-46497,2,01/11/15,01/05/17,18,Cultivo De Papas Sustentables Para La Región De Los Lagos
+PDT,COPEVAL,261,15PDTD-46517,15PDTD-46517,2,01/11/15,01/05/17,18,"Olivos Del Maule: Actualización Tecnológica Y Prácticas Productivas Sustentables, Para Responder A Las Nuevas Tendencias De Mercado Y A Una Demanda Creciente."
+PDT,RedAgrícola,262,15PDTD-46528,15PDTD-46528,2,01/10/15,01/01/17,15,"Agtech Chile: Plataforma De Difusión, Transferencia De Tecnología  Y Negocios Para Convertir A Empresas Chilenas De Bioinsumos Y Agricultura De Precisión En Organizaciones De Clase Mundial."
+PDT,FECHIPAN,263,15PDTD-46534,15PDTD-46534,2,01/11/15,01/02/17,15,Programa De Difusión Tecnológica Industria De La Panadería Y Pastelería Fechipan
+PDT,Papa Chile,264,15PDTD-46536,15PDTD-46536,2,01/11/15,01/05/17,18,Incorporación De Nuevas Tecnologías Para El Desarrollo Y Protección Sustentable Del Cultivo De La Papa (Solanum Tuberosum) En La Región De Los Lagos
+PDT,COPEVAL,265,15PDTD-46538,15PDTD-46538,2,01/12/15,01/04/17,16,"Sofisticando La Producción De Hortalizas: Alimentos Diversificados, Inocuos Y Sustentables"
+PDT,DAYENU Ltda,266,15PDTD-46541,15PDTD-46541,2,01/12/15,01/06/17,18,Programa De Difusión Tecnológica Para El Manejo Seguro E Inocuo De Las Hortalizas 
+PDT,DAYENU Ltda,267,15PDTD-46546,15PDTD-46546,2,01/12/15,01/06/17,18,Programa De Difusión Tecnológica Para La Producción De  Vinos Premium  En Productores De Edición Limitada De La Provincia De Colchagua Y Alrededores
+PPT,EUROCHILE,268,15PDTP-40466,15PDTP-40466,2,18/06/15,18/10/15,4,"Prospección De Tecnologías, Mejores Prácticas Y Técnicas Innovadoras Italianas, Para La Conservación De Estándares De Calidad En La Elaboración De Productos Gourmet, Al Cambiar La Escala De Producción De Lo Artesanal A Lo Industrial"
+PPT,CHILENUT,269,15PDTP-45944,15PDTP-45944,2,23/09/15,23/12/15,3,Nuevas Tecnologías Para Un Manejo Sustentable De La Industria De Las Nueces De Nogal Chilenas
+CHILENUT,AGRYD,270,15PDTP-45944,15PDTP-45944AM,2,23/09/15,23/12/15,3,Nuevas Tecnologías Para Un Manejo Sustentable De La Industria De Las Nueces De Nogal Chilenas
+P Fortalecimiento Capacidades,Codesser,271,15PFC-47053,15PFC-47053,2,01/11/15,01/08/16,9,Especialización en procesos agroindustriales
+Bienes Públicos,USACH,272,16BPE-62273,16BPE-62273,2,01/12/16,01/12/18,24,Diseño De Un Protocolo De  Monitoreo Y Control De Riesgos Asociados A Norovirus Y Hepatitis-A En La Cadena Productiva De Berries
+USACH,Chilealimentos,273,16BPE-62273,16BPE-62273 AM,2,01/12/16,01/12/18,24,Diseño De Un Protocolo De  Monitoreo Y Control De Riesgos Asociados A Norovirus Y Hepatitis-A En La Cadena Productiva De Berries
+USACH,Subsecretaría Agricultura,274,16BPE-62273,16BPE-62273 AM,2,01/12/16,01/12/18,24,Diseño De Un Protocolo De  Monitoreo Y Control De Riesgos Asociados A Norovirus Y Hepatitis-A En La Cadena Productiva De Berries
+USACH,INDAP,275,16BPE-62273,16BPE-62273 AM,2,01/12/16,01/12/18,24,Diseño De Un Protocolo De  Monitoreo Y Control De Riesgos Asociados A Norovirus Y Hepatitis-A En La Cadena Productiva De Berries
+USACH,ISP,276,16BPE-62273,16BPE-62273 C,2,01/12/16,01/12/18,24,Diseño De Un Protocolo De  Monitoreo Y Control De Riesgos Asociados A Norovirus Y Hepatitis-A En La Cadena Productiva De Berries
+Bienes Públicos,INIA,277,16BPE-62278,16BPE-62278,2,01/10/16,01/10/19,36,Fortalecimiento de la competitividad del rubro ovino en los sistemas ganaderos extensivos de la Patagonia Occidental mediante el desarrollo de estrategias de manejo y evaluación genética.
+INIA,Subsecretaría Agricultura,278,16BPE-62278,16BPE-62278 AM,2,01/10/16,01/10/19,36,Fortalecimiento de la competitividad del rubro ovino en los sistemas ganaderos extensivos de la Patagonia Occidental mediante el desarrollo de estrategias de manejo y evaluación genética.
+Bienes Públicos,INN,279,16BPE-62292,16BPE-62292,2,01/11/16,01/11/18,24,Alimentos saludables: Elaboración de Normas Chilenas para nutrientes críticos como apoyo al fortalecimiento de la competitividad analítica nacional
+INN,Subsecretaría Agricultura,280,16BPE-62292,16BPE-62292 AM,2,01/11/16,01/11/18,24,Alimentos saludables: Elaboración de Normas Chilenas para nutrientes críticos como apoyo al fortalecimiento de la competitividad analítica nacional
+INN,Chilealimentos,281,16BPE-62292,16BPE-62292 AM,2,01/11/16,01/11/18,24,Alimentos saludables: Elaboración de Normas Chilenas para nutrientes críticos como apoyo al fortalecimiento de la competitividad analítica nacional
+Bienes Públicos,ASPROCER,282,16BPE-62330,16BPE-62330,2,01/11/16,01/03/18,16,Plataforma informática para Gestión Sanitaria y de Inocuidad en producción Pecuaria 
+ASPROCER,ACHIPIA,283,16BPE-62330,16BPE-62330 AM,2,01/11/16,01/03/18,16,Plataforma informática para Gestión Sanitaria y de Inocuidad en producción Pecuaria 
+ASPROCER,SAG,284,16BPE-62330,16BPE-62330 AM,2,01/11/16,01/03/18,16,Plataforma informática para Gestión Sanitaria y de Inocuidad en producción Pecuaria 
+Bienes Públicos,CHILEOLIVA,285,16BPE-62339,16BPE-62339,2,01/11/16,01/02/18,15,"Modelo de predicción del rendimiento de aceite de oliva, basado en variables agronómicas y ambientales de fácil medición, que aumenten la competitividad y la eficiencia de la industria. "
+CHILEOLIVA,ODEPA,286,16BPE-62339,16BPE-62339 AM,2,01/11/16,01/02/18,15,"Modelo de predicción del rendimiento de aceite de oliva, basado en variables agronómicas y ambientales de fácil medición, que aumenten la competitividad y la eficiencia de la industria. "
+Centros Extensionismo,UCHILE,287,16CET2-63917,16CET2-63917,2,05/01/16,05/01/19,36,Centro De Extensión Hortícola Universidad De Chile 
+UCHILE,CET Hortícola UChile,288,16CET2-63917,16CET2-63917,2,05/01/16,05/01/19,36,Centro De Extensión Hortícola Universidad De Chile 
+CET Hortícola UChile,INDAP,289,16CET2-63917,16CET2-63917 AM,2,05/01/16,05/01/19,36,Centro De Extensión Hortícola Universidad De Chile 
+CET Hortícola UChile,ACHIPIA,290,16CET2-63917,16CET2-63917 AM,2,05/01/16,05/01/19,36,Centro De Extensión Hortícola Universidad De Chile 
+CET Hortícola UChile,UNAF,291,16CET2-63917,16CET2-63917 AM,2,05/01/16,05/01/19,36,Centro De Extensión Hortícola Universidad De Chile 
+CET Hortícola UChile,CE Rosario,292,16CET2-63917,16CET2-63917 AM,2,05/01/16,05/01/19,36,Centro De Extensión Hortícola Universidad De Chile 
+Centros Extensionismo,UCDavis,293,16CET2-63919,16CET2-63919,2,09/11/16,09/11/19,36,Centro De Extensionismo Vitivinícola Del Sur
+UCDavis,16CET2-63919,294,16CET2-63919,16CET2-63919,2,09/11/16,09/11/19,36,Centro De Extensionismo Vitivinícola Del Sur
+16CET2-63919,Viña Errázuriz Dominguez,295,16CET2-63919,16CET2-63919 AM,2,09/11/16,09/11/19,36,Centro De Extensionismo Vitivinícola Del Sur
+16CET2-63919,CoopVit Cerro Negro Quillón,296,16CET2-63919,16CET2-63919 AM,2,09/11/16,09/11/19,36,Centro De Extensionismo Vitivinícola Del Sur
+16CET2-63919,Viñas de Guarilihue,297,16CET2-63919,16CET2-63919 AM,2,09/11/16,09/11/19,36,Centro De Extensionismo Vitivinícola Del Sur
+16CET2-63919,Ecoparra SPA,298,16CET2-63919,16CET2-63919 AM,2,09/11/16,09/11/19,36,Centro De Extensionismo Vitivinícola Del Sur
+16CET2-63919,UConcepción,299,16CET2-63919,16CET2-63919 C,2,09/11/16,09/11/19,36,Centro De Extensionismo Vitivinícola Del Sur
+16CET2-63919,INIA,300,16CET2-63919,16CET2-63919 C,2,09/11/16,09/11/19,36,Centro De Extensionismo Vitivinícola Del Sur
+IFI,SOUTHAM,301,16IFI-57352,16IFI-57352,2,01/01/16,01/01/17,12,Aumento de capacidad planta de liofilización South Am en 230.000 toneladas año y construcción de un centro de innovación que desarrolle nuevos productos a procesar bajo esta tecnología.
+SOUTHAM,Tres Mares,302,16IFI-57352,16IFI-57352A,2,01/01/16,01/01/17,12,Aumento de capacidad planta de liofilización South Am en 230.000 toneladas año y construcción de un centro de innovación que desarrolle nuevos productos a procesar bajo esta tecnología.
+PPT,Consorcio Lechero,303,15PDTP-46512,15PDTP-46512,3,01/10/15,01/01/16,3,Misión De Prospección De Tecnologías De Riego Rentables En Lecherías Bovinas De Australia 
+Apoyo Proyectos Estratégicos,Tres Columnas,304,15PRAP-49490,15PRAP-49490,3,01/01/16,01/07/17,18,Maquimapu Energias De La Tierra
+EstándarNC-CTS,FIA,305,688535-8-LQ16,688535-8-LQ16-CTS,1,30/03/17,30/03/18,12,Diseño e implementación de estándares para la disminución programa de nutrientes críticos en las Mipymes alimentarias
+EstándarNC-CTS,PERLosRíos,306,688535-8-LQ16,688535-8-LQ16-CTS,1,30/03/17,30/03/18,12,Diseño e implementación de estándares para la disminución programa de nutrientes críticos en las Mipymes alimentarias
+EstándarNC-CTS,ANIC,307,688535-8-LQ16,688535-8-LQ16-CTS,1,30/03/17,30/03/18,12,Diseño e implementación de estándares para la disminución programa de nutrientes críticos en las Mipymes alimentarias
+EstándarNC-CTS,UNAF,308,688535-8-LQ16,688535-8-LQ16-CTS,1,30/03/17,30/03/18,12,Diseño e implementación de estándares para la disminución programa de nutrientes críticos en las Mipymes alimentarias
+EstándarNC-CTS,APROLECHE,309,688535-8-LQ16,688535-8-LQ16-CTS,1,30/03/17,30/03/18,12,Diseño e implementación de estándares para la disminución programa de nutrientes críticos en las Mipymes alimentarias
+EstándarNC-CTS,SOCHITAL,310,688535-8-LQ16,688535-8-LQ16-CTS,1,30/03/17,30/03/18,12,Diseño e implementación de estándares para la disminución programa de nutrientes críticos en las Mipymes alimentarias
+EstándarNC-CTS,CAPCHICAL,311,688535-8-LQ16,688535-8-LQ16-CTS,1,30/03/17,30/03/18,12,Diseño e implementación de estándares para la disminución programa de nutrientes críticos en las Mipymes alimentarias
+EstándarNC-CTS,INTA,312,688535-8-LQ16,688535-8-LQ16-CTS,1,30/03/17,30/03/18,12,Diseño e implementación de estándares para la disminución programa de nutrientes críticos en las Mipymes alimentarias
+EstándarNC-CTS,CETA,313,688535-8-LQ16,688535-8-LQ16-CTS,1,30/03/17,30/03/18,12,Diseño e implementación de estándares para la disminución programa de nutrientes críticos en las Mipymes alimentarias
+EstándarNC,INTA,314,688535-8-LQ16,688535-8-LQ16,1,30/03/17,30/03/18,12,Diseño e implementación de estándares para la disminución programa de nutrientes críticos en las Mipymes alimentarias
+EstándarNC,EstándarNC-CTS,315,688535-8-LQ16,688535-8-LQ16,1,30/03/17,30/03/18,12,Diseño e implementación de estándares para la disminución programa de nutrientes críticos en las Mipymes alimentarias
+EstándarAF-CTS,MINSAL,316,688535-9-LQ16,688535-9-LQ16-CTS,1,30/03/17,30/03/18,12,Diseño e Implementación de un sistema de Gestión para Estándares en AlimentosFuncionales (AF) y Reconocimiento de la Categoría de AF en el Reglamento Sanitario de los Alimentos (RSA)
+EstándarAF-CTS,Subsecretaría Economía,317,688535-9-LQ16,688535-9-LQ16-CTS,1,30/03/17,30/03/18,12,Diseño e Implementación de un sistema de Gestión para Estándares en AlimentosFuncionales (AF) y Reconocimiento de la Categoría de AF en el Reglamento Sanitario de los Alimentos (RSA)
+EstándarAF-CTS,SERCOTEC,318,688535-9-LQ16,688535-9-LQ16-CTS,1,30/03/17,30/03/18,12,Diseño e Implementación de un sistema de Gestión para Estándares en AlimentosFuncionales (AF) y Reconocimiento de la Categoría de AF en el Reglamento Sanitario de los Alimentos (RSA)
+EstándarAF-CTS,INDAP,319,688535-9-LQ16,688535-9-LQ16-CTS,1,30/03/17,30/03/18,12,Diseño e Implementación de un sistema de Gestión para Estándares en AlimentosFuncionales (AF) y Reconocimiento de la Categoría de AF en el Reglamento Sanitario de los Alimentos (RSA)
+EstándarAF-CTS,FIA,320,688535-9-LQ16,688535-9-LQ16-CTS,1,30/03/17,30/03/18,12,Diseño e Implementación de un sistema de Gestión para Estándares en AlimentosFuncionales (AF) y Reconocimiento de la Categoría de AF en el Reglamento Sanitario de los Alimentos (RSA)
+EstándarAF-CTS,INIA,321,688535-9-LQ16,688535-9-LQ16-CTS,1,30/03/17,30/03/18,12,Diseño e Implementación de un sistema de Gestión para Estándares en AlimentosFuncionales (AF) y Reconocimiento de la Categoría de AF en el Reglamento Sanitario de los Alimentos (RSA)
+EstándarAF-CTS,PERMaule,322,688535-9-LQ16,688535-9-LQ16-CTS,1,30/03/17,30/03/18,12,Diseño e Implementación de un sistema de Gestión para Estándares en AlimentosFuncionales (AF) y Reconocimiento de la Categoría de AF en el Reglamento Sanitario de los Alimentos (RSA)
+EstándarAF-CTS,Chilealimentos,323,688535-9-LQ16,688535-9-LQ16-CTS,1,30/03/17,30/03/18,12,Diseño e Implementación de un sistema de Gestión para Estándares en AlimentosFuncionales (AF) y Reconocimiento de la Categoría de AF en el Reglamento Sanitario de los Alimentos (RSA)
+EstándarAF-CTS,UNAF,324,688535-9-LQ16,688535-9-LQ16-CTS,1,30/03/17,30/03/18,12,Diseño e Implementación de un sistema de Gestión para Estándares en AlimentosFuncionales (AF) y Reconocimiento de la Categoría de AF en el Reglamento Sanitario de los Alimentos (RSA)
+EstándarAF-CTS,ALIMSA,325,688535-9-LQ16,688535-9-LQ16-CTS,1,30/03/17,30/03/18,12,Diseño e Implementación de un sistema de Gestión para Estándares en AlimentosFuncionales (AF) y Reconocimiento de la Categoría de AF en el Reglamento Sanitario de los Alimentos (RSA)
+EstándarAF-CTS,SOCHITAL,326,688535-9-LQ16,688535-9-LQ16-CTS,1,30/03/17,30/03/18,12,Diseño e Implementación de un sistema de Gestión para Estándares en AlimentosFuncionales (AF) y Reconocimiento de la Categoría de AF en el Reglamento Sanitario de los Alimentos (RSA)
+EstándarAF-CTS,CAPCHICAL,327,688535-9-LQ16,688535-9-LQ16-CTS,1,30/03/17,30/03/18,12,Diseño e Implementación de un sistema de Gestión para Estándares en AlimentosFuncionales (AF) y Reconocimiento de la Categoría de AF en el Reglamento Sanitario de los Alimentos (RSA)
+EstándarAF-CTS,Granotec,328,688535-9-LQ16,688535-9-LQ16-CTS,1,30/03/17,30/03/18,12,Diseño e Implementación de un sistema de Gestión para Estándares en AlimentosFuncionales (AF) y Reconocimiento de la Categoría de AF en el Reglamento Sanitario de los Alimentos (RSA)
+EstándarAF,UTALCA,329,688535-9-LQ16,688535-9-LQ16,1,30/03/17,30/03/18,12,Diseño e Implementación de un sistema de Gestión para Estándares en AlimentosFuncionales (AF) y Reconocimiento de la Categoría de AF en el Reglamento Sanitario de los Alimentos (RSA)
+EstándarAF,EstándarAF-CTS,330,688535-9-LQ16,688535-9-LQ16,1,30/03/17,30/03/18,12,Diseño e Implementación de un sistema de Gestión para Estándares en AlimentosFuncionales (AF) y Reconocimiento de la Categoría de AF en el Reglamento Sanitario de los Alimentos (RSA)
+TA-Process,Subdirección Innovación UCHILE,331,,ConsejoP,,28/01/15,,,
+TA-Process,SUBPESCA,332,,ConsejoP,,28/01/15,,,
+TA-CE,ACHIPIA,333,,Comité,,28/01/15,,,
+TA-CE,CORFO,334,,Comité,,28/01/15,,,
+TA-CE,FIA,335,,Comité,,28/01/15,,,
+TA-CE,Chilealimentos,336,,Comité,,28/01/15,,,
+TA-CE,ODEPA,337,,Comité,,28/01/15,,,
+TA-CE,GDC,338,,Comité,,28/01/15,,,
+TA,TA-Process,339,,,,28/01/15,,,
+TA,TA-CE,340,,,,28/01/15,,,
+GDC,TA,341,,,,28/01/15,,,
+GDC,COPEVAL,342,,,,28/01/15,,,
+COPEVAL,TA,343,,,,28/01/15,,,
+ProgDifTec,PDT,344,,,,01/01/15,,,
+ProgDifTec,PPT,345,,,,01/01/15,,,
+Innova,Bienes Públicos,346,,,,01/01/15,,,
+Innova,Centros Extensionismo,347,,,,01/01/15,,,
+ContaQuim-CTS,MINSAL,348,688535-7-LQ16,688535-7-LQ16-CTS,1,30/03/17,30/03/18,12,"Diseño e implementación de un Plan Nacional de Cierre de Brechas de Contaminantes Químicos (Agroquímicos, residuos medicamentos veterinarios, otros) en Productos Primarios"
+ContaQuim-CTS,INDAP,349,688535-7-LQ16,688535-7-LQ16-CTS,1,30/03/17,30/03/18,12,"Diseño e implementación de un Plan Nacional de Cierre de Brechas de Contaminantes Químicos (Agroquímicos, residuos medicamentos veterinarios, otros) en Productos Primarios"
+ContaQuim-CTS,SAG,350,688535-7-LQ16,688535-7-LQ16-CTS,1,30/03/17,30/03/18,12,"Diseño e implementación de un Plan Nacional de Cierre de Brechas de Contaminantes Químicos (Agroquímicos, residuos medicamentos veterinarios, otros) en Productos Primarios"
+ContaQuim-CTS,INIA,351,688535-7-LQ16,688535-7-LQ16-CTS,1,30/03/17,30/03/18,12,"Diseño e implementación de un Plan Nacional de Cierre de Brechas de Contaminantes Químicos (Agroquímicos, residuos medicamentos veterinarios, otros) en Productos Primarios"
+ContaQuim-CTS,PEROHiggins,352,688535-7-LQ16,688535-7-LQ16-CTS,1,30/03/17,30/03/18,12,"Diseño e implementación de un Plan Nacional de Cierre de Brechas de Contaminantes Químicos (Agroquímicos, residuos medicamentos veterinarios, otros) en Productos Primarios"
+ContaQuim-CTS,UNAF,353,688535-7-LQ16,688535-7-LQ16-CTS,1,30/03/17,30/03/18,12,"Diseño e implementación de un Plan Nacional de Cierre de Brechas de Contaminantes Químicos (Agroquímicos, residuos medicamentos veterinarios, otros) en Productos Primarios"
+ContaQuim-CTS,AFIPA,354,688535-7-LQ16,688535-7-LQ16-CTS,1,30/03/17,30/03/18,12,"Diseño e implementación de un Plan Nacional de Cierre de Brechas de Contaminantes Químicos (Agroquímicos, residuos medicamentos veterinarios, otros) en Productos Primarios"
+ContaQuim-CTS,ANVET,355,688535-7-LQ16,688535-7-LQ16-CTS,1,30/03/17,30/03/18,12,"Diseño e implementación de un Plan Nacional de Cierre de Brechas de Contaminantes Químicos (Agroquímicos, residuos medicamentos veterinarios, otros) en Productos Primarios"
+ContaQuim-CTS,RedApicola,356,688535-7-LQ16,688535-7-LQ16-CTS,1,30/03/17,30/03/18,12,"Diseño e implementación de un Plan Nacional de Cierre de Brechas de Contaminantes Químicos (Agroquímicos, residuos medicamentos veterinarios, otros) en Productos Primarios"
+ContaQuim-CTS,Consorcio Lechero,357,688535-7-LQ16,688535-7-LQ16-CTS,1,30/03/17,30/03/18,12,"Diseño e implementación de un Plan Nacional de Cierre de Brechas de Contaminantes Químicos (Agroquímicos, residuos medicamentos veterinarios, otros) en Productos Primarios"
+ContaQuim-CTS,CET Hortícola UChile,358,688535-7-LQ16,688535-7-LQ16-CTS,1,30/03/17,30/03/18,12,"Diseño e implementación de un Plan Nacional de Cierre de Brechas de Contaminantes Químicos (Agroquímicos, residuos medicamentos veterinarios, otros) en Productos Primarios"
+ContaQuim,FAVET-UCHILE,359,688535-7-LQ16,688535-7-LQ16,1,30/03/17,30/03/18,12,"Diseño e implementación de un Plan Nacional de Cierre de Brechas de Contaminantes Químicos (Agroquímicos, residuos medicamentos veterinarios, otros) en Productos Primarios"
+ContaQuim,ContaQuim-CTS,360,688535-7-LQ16,688535-7-LQ16,1,30/03/17,30/03/18,12,"Diseño e implementación de un Plan Nacional de Cierre de Brechas de Contaminantes Químicos (Agroquímicos, residuos medicamentos veterinarios, otros) en Productos Primarios"
+Innova,I+D Empresarial,361,,,,01/01/15,,,
+Innova,ProgDifTec,362,,,,01/01/15,,,
+Innova,P Fortalecimiento Capacidades,363,,,,01/01/15,,,
+I+D Empresarial,L1,364,,,,01/01/15,,,
+I+D Empresarial,L2,365,,,,01/01/15,,,
+I+D Empresarial,L3,366,,,,01/01/15,,,
+GDC,Nodo,367,,,,01/01/15,,,
+GDC,Apoyo Proyectos Inversion Tecnológica,368,,,,01/01/15,,,
+GDC,Apoyo Proyectos Estratégicos,369,,,,01/01/15,,,
+GCT,Centros Tecnológicos,370,,,,01/01/15,,,
+CORFO,GDC,371,,,,01/01/15,,,
+CORFO,GCT,372,,,,01/01/15,,,
+FIA,PIA+S,373,,,,01/01/12,,,
+CORFO,PIA+S,374,,,,01/01/12,,,
+Innova,CCF,375,,,,01/01/10,01/01/15,,
+CCF,Granotec,376,,,,01/01/10,,,Consorcio de Cereales Funcionales
+CEAP,CONICYT,377,,,,01/12/09,,,
+CEAP,Gob Reg Maule,378,,,,01/12/09,,,
+CEAP,UTALCA,379,,,,01/12/09,,,
+CEAP,UCMAULE,380,,,,01/12/09,,,
+CEAP,Sugal,381,,,,01/12/09,,,
+CEAP,Surfrut,382,,,,01/12/09,,,
+CEAP,INIA - Raihuén,383,,,,01/12/09,,,
+CREAS,CONICYT,384,,,,01/11/07,,,
+CREAS,Gob Reg Valparaíso,385,,,,01/11/07,,,
+CREAS,PUCV,386,,,,01/11/07,,,
+CREAS,UTFSM,387,,,,01/11/07,,,
+CREAS,UV,388,,,,01/11/07,,,
+CREAS,INIA - La Cruz,389,,,,01/11/07,,,
+MINAGRI,FIA,390,,,,01/01/06,,,
+ACHIPIA,MINAGRI,391,,,,01/01/05,,,
+MINAGRI,INIA,392,,,,08/04/64,,,
+UCHILE,Subdirección Innovación UCHILE,393,,,,01/01/64,,,
+UCHILE,INTA,394,,,,01/01/64,,,
+Subsecretaría Agricultura,MINAGRI,395,,,,01/01/64,,,
+Sub Redes Asistenciales MINSAL,MINSAL,396,,,,01/01/64,,,
+MINSAL,División Políticas Públicas MINSAL,397,,,,01/01/64,,,
+MINSAL,ISP,398,,,,01/01/64,,,
+MINEDUC,CONICYT,399,,,,01/01/64,,,
+MINECON,PROCHILE,400,,,,01/01/64,,,
+MINECON,CORFO,401,,,,01/01/64,,,
+MINECON,INVESTCHILE,402,,,,01/01/64,,,
+MINECON,SUBPESCA,403,,,,01/01/64,,,
+MINAGRI,ODEPA,404,,,,01/01/64,,,
+MINAGRI,SAG,405,,,,01/01/64,,,
+MINAGRI,SEREMI MINAGRI BIOBIO,406,,,,01/01/64,,,
+MINAGRI,INDAP,407,,,,01/01/64,,,
+INIA,INIA - Quilamapu,408,,,,01/01/64,,,
+INIA,INIA - La Cruz,409,,,,01/01/64,,,
+INIA,INIA - Raihuén,410,,,,01/01/64,,,
+FMed-UCHILE,UCHILE,411,,,,01/01/64,,,
+FI Agrícola UConce,UConcepción,412,,,,01/01/64,,,
+DICTUC,PUC,413,,,,01/01/64,,,
+CORFO,Innova,414,,,,01/01/64,,,
+CDT Agroindustrial UConce,UConcepción,415,,,,01/01/64,,,
+UCHILE,FAVET-UCHILE,416,,,,01/01/60,,,
+MINECON,Subsecretaría Economía,417,,,,01/01/60,,,
+FIA,PolosTerritoriales,418,,,,01/01/17,,,
